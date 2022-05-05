@@ -7,7 +7,9 @@
 
 Git clone in your preferred directory
 
-Navigate to directory and type npm start to initialize server.
+Navigate to directory and type install express to get the required modules
+
+Type Npm start to initialize server.
 
 Server is now ready to accept POST requests on http://localhost:8080/
 
