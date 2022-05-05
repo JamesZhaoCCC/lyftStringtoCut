@@ -1,7 +1,8 @@
 # lyftStringtoCut
 
-# Backend application created through Node.js that accepts a POST request to route "/test" and one argument "string_to_cut"
-# Returns JSON object with key "return_string" and a string containing every third letter from the string
+Backend application created through Node.js that accepts a POST request to route "/test" and one argument "string_to_cut"
+
+Returns JSON object with key "return_string" and a string containing every third letter from the string
 
 # Requirements: Make sure to have Node.js installed
 
